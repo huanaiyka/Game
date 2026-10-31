@@ -5,7 +5,7 @@ Pokemon Conquest RPG fanmake
 这是一款非商业使用的粉丝向同人游戏 (｡･ω･｡)ﾉ♡
 - **当前版本：** v1.0.0（一周目主线完整！二周目暂未开放）
 - **一周目游戏时长：** 约10小时
-- **详细介绍与截图：** [点击前往百度贴吧查看介绍](https://tieba.baidu.com/p/10356451032?fr=personpage)
+- **详细介绍与截图：** [点击前往贴吧查看介绍](https://tieba.baidu.com/p/10356451032?fr=personpage)
 
 ## 游戏下载
 
