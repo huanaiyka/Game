@@ -11,6 +11,6 @@ Pokemon Conquest RPG fanmake
 
 由于游戏安装包较大（约 280MB），推荐使用下方加速链接下载：
 
-**[点击这里极速下载 kouxinRPG_ver1.0.0.zip](https://download.huanaiyka.workers.dev/https://github.com/huanaiyka/Game/releases/download/ver1.0.0/kouxinRPG_ver1.0.0.zip)**
+**[点击这里极速下载 kouxinRPG_ver1.0.0.zip](https://download.huanaiyka.workers.dev/https://github.com/huanaiyka/Game/releases/latest/download/kouxinRPG.zip)**
 
 *(如果加速链接失效，请前往右侧的 [Releases](https://github.com/huanaiyka/Game/releases) 页面下载原版。)*
