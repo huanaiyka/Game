@@ -6,7 +6,7 @@ Pokemon Conquest RPG fanmake
 - **当前版本：** v1.0（一周目主线完整！二周目暂未开放）
 - **一周目游戏时长：** 约10小时
 - **详细介绍与截图：** [点击前往论坛](https://rpg.blue/forum.php?mod=viewthread&tid=499416)
-- **更新履历：** [点击前往联系页面](https://dream-66o.pages.dev/Contact)
+- **更新履历：** [点击前往联系页面](https://dream-66o.pages.dev/contact)
 
 ## 游戏下载
 
